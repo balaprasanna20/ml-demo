@@ -1,0 +1,22 @@
+unsupported and support:(download file in pen drive)
+1.model of the phone
+2.pendrive model
+3.space availability in phone
+4.file size 
+5.file version
+
+
+male and female: 
+1.body type
+2.blood test
+3.dna report
+3.nail samples
+4.hair samples
+5.chromosome type
+
+promoted and unpromoted:
+1.employe name or id
+2.employe attendance
+3.employee targets completed
+4.employee  experience based my company
+5.employee report from TL
