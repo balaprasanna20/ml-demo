@@ -1,0 +1,24 @@
+A(person) B(person),A has 4 rupees ,b has 7 rupees, now A has to want 3 rupees from B, now B has to want 2rupees from A
+after 2 days A has return 1 to B and B has return 1 to A
+so total how many A ,B have ?
+
+A=5,B=6
+
+
+RAJ has two child both are male , first child have one kid that is female ,second kid has 3 kids that 2 male and 1 female
+RAJ generation how many kids
+
+KIDS=6
+
+
+
+
+a has to complete work 15 hrs ,b work complete 9 hrs, how a and b together to complete
+
+
+total distance 240 
+1 hour 20 km/h
+how many hours to cover the distance
+
+
+
